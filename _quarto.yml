@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "CITOverso"
+  description: "Asesoría Científica y Análisis Computacional en Citometría de Flujo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Sobre mí
+      # Aquí agregaremos más adelante páginas como "Servicios" o "Blog"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
