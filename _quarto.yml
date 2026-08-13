@@ -9,11 +9,22 @@ website:
       - href: index.qmd
         text: Inicio
       - href: about.qmd
-        text: Sobre mí
+        text: Sobre mí  
+      - href: servicios.qmd
+        text: Servicios de Asesoría
+      - href: tutoriales.qmd
+        text: Tutoriales en R
+    right:
+      - icon: github
+        href: https://github.com/jvillanuevatoledo/citoverso
+      - icon: linkedin
+        href: https://linkedin.com
+      - icon: envelope
+        href: mailto:tu-correo@ejemplo.com
       # Aquí agregaremos más adelante páginas como "Servicios" o "Blog"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true

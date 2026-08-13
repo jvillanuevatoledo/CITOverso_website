@@ -1,5 +1,36 @@
 ---
-title: "About"
+title: "Jairo Villanueva"
+subtitle: "Científico de datos | Profesor"
+image: Foto_perfil.jpg
 ---
 
-About this site
+Médico cirujano de formación con doctorado en genética y biología molecular, especializado en descifrar los mecanismos moleculares del cáncer para desarrollar nuevas estrategias terapéuticas. Mi experiencia abarca desde el diseño experimental y la ejecución de técnicas avanzadas de biología molecular hasta análisis e interpretación de datos complejos.
+
+## Educación
+
+**Doctor en Ciencias en Genética y Biología molecular**
+- CINVESTAV-IPN unidad Zacatenco
+ 
+**Maestro en Ciencias en Genética y Biología molecular**
+- CINVESTAV-IPN unidad Zacatenco 
+
+**Médico Cirujano**
+- UADY – Facultad de Medicina
+
+
+## Experiencia profesional
+
+Investigador por México de la SECIHTI
+Comisionado al HRAEPY – IMSS BIENESTAR
+2024 – actualidad
+
+Sistema Nacional de Investigadores (SNII)
+Nivel: 1
+
+# Intereses académicos
+•	Estudio del cáncer
+•	Biología Molecular
+•	Medicina traslacional
+•	Citometría de Flujo
+•	Bioinformática
+•	Inteligencia Artificial

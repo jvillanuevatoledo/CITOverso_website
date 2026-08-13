@@ -1,7 +1,23 @@
 ---
-title: "citoverso"
+title: "Bienvenidos a CITOverso"
+image: profile.jpg # Aquí luego pondremos tu logo o foto
+about:
+  template: trestles # Plantilla que divide la foto a un lado y el texto al otro
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jvillanuevatoledo
 ---
 
-This is a Quarto website.
+Soy especialista en **metodología de la investigación** y **análisis de datos de citometría de flujo**. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+A través de CITOverso, brindo asesoría científica integral diseñada para investigadores, médicos residentes y estudiantes de medicina que buscan optimizar sus protocolos y flujos de trabajo computacionales.
+
+### Especialidades de Análisis
+*   Análisis bidimensional clásico.
+*   Reducción de dimensionalidad y visualización avanzada.
+*   Clustering celular utilizando algoritmos de vanguardia en R y herramientas de Bioconductor.
+*   Diseño y validación de protocolos de investigación clínica.
+
+### ¿Cómo puedo ayudarte?
+Ya sea que estés estructurando una pregunta de investigación desde cero, o necesites apoyo bioinformático para analizar grandes volúmenes de datos citométricos, podemos trabajar juntos para darle rigor técnico a tus proyectos.
