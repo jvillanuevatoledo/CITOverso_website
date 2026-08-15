@@ -1,30 +1,51 @@
 [
   {
+    "objectID": "tutoriales.html",
+    "href": "tutoriales.html",
+    "title": "Próximamente",
+    "section": "",
+    "text": "Sección en Desarrollo\nEstamos preparando contenido de alto valor científico para esta área.\nEn CITOverso, nuestro compromiso es ofrecerte recursos con el más alto rigor metodológico y bioinformático. Actualmente estamos diseñando esta sección para asegurar que cumpla con los estándares que tus proyectos de investigación requieren.\n¡Vuelve muy pronto para explorar los nuevos contenidos!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bienvenidos a CITOverso",
+    "title": "Bienvenidos",
     "section": "",
-    "text": "Soy especialista en metodología de la investigación y análisis de datos de citometría de flujo.\nA través de CITOverso, brindo asesoría científica integral diseñada para investigadores, médicos residentes y estudiantes de medicina que buscan optimizar sus protocolos y flujos de trabajo computacionales.\n\nEspecialidades de Análisis\n\nAnálisis bidimensional clásico.\nReducción de dimensionalidad y visualización avanzada.\nClustering celular utilizando algoritmos de vanguardia en R y herramientas de Bioconductor.\nDiseño y validación de protocolos de investigación clínica.\n\n\n\n¿Cómo puedo ayudarte?\nYa sea que estés estructurando una pregunta de investigación desde cero, o necesites apoyo bioinformático para analizar grandes volúmenes de datos citométricos, podemos trabajar juntos para darle rigor técnico a tus proyectos."
+    "text": "En la investigación biomédica actual, generar datos es solo el punto de partida; el verdadero desafío es darles sentido. En CITOverso, construimos un puente sólido entre la pregunta de investigación y la potencia de la ciencia de datos. Diseñado para investigadores, profesionales y estudiantes del área biológica, este espacio ofrece cursos y asesoría científica integral. Desde la formulación de una correcta pregunta de investigación hasta la ejecución de flujos de trabajo en R para citometría de flujo, mi objetivo es dotarte de las herramientas y la claridad necesarias para transformar datos crudos en conocimiento publicable.\n\nEspecialidades de Análisis\n\nAnálisis bidimensional clásico.\nReducción de dimensionalidad y visualización avanzada.\nClustering celular utilizando algoritmos de vanguardia en R y herramientas de Bioconductor.\nDiseño y validación de protocolos de investigación.\n\n\n\n¿Cómo puedo ayudarte?\nYa sea que estés estructurando un proyecto de investigación desde cero, o necesites apoyo bioinformático para analizar grandes volúmenes de datos citométricos, podemos trabajar juntos para darleles rigor técnico."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Jairo Villanueva",
+    "title": "Jairo R. Villanueva-Toledo",
     "section": "",
-    "text": "Médico cirujano de formación con doctorado en genética y biología molecular, especializado en descifrar los mecanismos moleculares del cáncer para desarrollar nuevas estrategias terapéuticas. Mi experiencia abarca desde el diseño experimental y la ejecución de técnicas avanzadas de biología molecular hasta análisis e interpretación de datos complejos."
+    "text": "GitHub\n LinkedIn\n ORCID\n ResearchGate\n Google Académico\n\n\n\n\nSoy especialista en análisis de datos de citometría de flujo.\nEspecializado en descifrar los mecanismos moleculares del cáncer para desarrollar nuevas estrategias terapéuticas. Mi experiencia abarca desde el diseño experimental y la ejecución de técnicas avanzadas de biología molecular hasta el análisis e interpretación de datos complejos.\nA través de CITOverso, brindo asesoría científica integral diseñada para investigadores, profesionales y estudiantes que buscan optimizar sus protocolos y flujos de trabajo computacionales.\n\n\nDoctor en Ciencias en Genética y Biología Molecular\nCINVESTAV-IPN unidad Zacatenco\nMaestro en Ciencias en Genética y Biología Molecular\nCINVESTAV-IPN unidad Zacatenco\nMédico Cirujano\nUADY – Facultad de Medicina\n\n\n\n\n\nInvestigador por México de la SECIHTI\nComisionado al HRAEPY – IMSS BIENESTAR | 2024 – actualidad\nSistema Nacional de Investigadoras e Investigadores (SNII)\nNivel 1\n\n\n\n\n\n\nEstudio del cáncer\nBiología Molecular\nMedicina traslacional\nCitometría de Flujo\nBioinformática\nInteligencia Artificial\n\n\nHecho con 💙"
   },
   {
     "objectID": "about.html#educación",
     "href": "about.html#educación",
-    "title": "Jairo Villanueva",
-    "section": "Educación",
-    "text": "Educación\nDoctor en Ciencias en Genética y Biología molecular - CINVESTAV-IPN unidad Zacatenco\nMaestro en Ciencias en Genética y Biología molecular - CINVESTAV-IPN unidad Zacatenco\nMédico Cirujano - UADY – Facultad de Medicina"
+    "title": "Jairo R. Villanueva-Toledo",
+    "section": "",
+    "text": "Doctor en Ciencias en Genética y Biología Molecular\nCINVESTAV-IPN unidad Zacatenco\nMaestro en Ciencias en Genética y Biología Molecular\nCINVESTAV-IPN unidad Zacatenco\nMédico Cirujano\nUADY – Facultad de Medicina"
   },
   {
     "objectID": "about.html#experiencia-profesional",
     "href": "about.html#experiencia-profesional",
-    "title": "Jairo Villanueva",
-    "section": "Experiencia profesional",
-    "text": "Experiencia profesional\nInvestigador por México de la SECIHTI Comisionado al HRAEPY – IMSS BIENESTAR 2024 – actualidad\nSistema Nacional de Investigadores (SNII) Nivel: 1"
+    "title": "Jairo R. Villanueva-Toledo",
+    "section": "",
+    "text": "Investigador por México de la SECIHTI\nComisionado al HRAEPY – IMSS BIENESTAR | 2024 – actualidad\nSistema Nacional de Investigadoras e Investigadores (SNII)\nNivel 1"
+  },
+  {
+    "objectID": "about.html#intereses-académicos",
+    "href": "about.html#intereses-académicos",
+    "title": "Jairo R. Villanueva-Toledo",
+    "section": "",
+    "text": "Estudio del cáncer\nBiología Molecular\nMedicina traslacional\nCitometría de Flujo\nBioinformática\nInteligencia Artificial"
+  },
+  {
+    "objectID": "servicios.html",
+    "href": "servicios.html",
+    "title": "Próximamente",
+    "section": "",
+    "text": "Sección en Desarrollo\nEstamos preparando contenido de alto valor científico para esta área.\nEn CITOverso, nuestro compromiso es ofrecerte recursos con el más alto rigor metodológico y bioinformático. Actualmente estamos diseñando esta sección para asegurar que cumpla con los estándares que tus proyectos de investigación requieren.\n¡Vuelve muy pronto para explorar los nuevos contenidos!"
   }
 ]
