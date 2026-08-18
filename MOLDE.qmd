@@ -1,0 +1,22 @@
+---
+title: "Próximamente"
+---
+
+:::: {.columns}
+
+::: {.column width="20%"}
+**Columna Izquierda**
+Ideal para enlaces rápidos, notas al margen o un pequeño menú secundario.
+:::
+
+::: {.column width="60%"}
+**Contenido Principal**
+Este es el espacio central donde va tu texto más importante, tus gráficos de R generados con ggplot2, o la explicación detallada de tus análisis bioinformáticos.
+:::
+
+::: {.column width="20%"}
+**Columna Derecha**
+Perfecta para poner tu información de contacto, iconos de redes sociales o llamados a la acción (ej. "Agenda una asesoría").
+:::
+
+::::

@@ -1,0 +1,42 @@
+---
+title: "Próximamente"
+---
+
+:::: {.columns}
+
+::: {.column width="20%"}
+### 🧭 Navegación
+Mientras terminamos esta sección, puedes volver a explorar:
+
+* [🏠 Inicio](index.qmd)
+* [👨‍🔬 Sobre mí](about.qmd)
+:::
+
+::: {.column width="60%"}
+::: {.text-center}
+<br>
+<i class="bi bi-terminal" style="font-size: 4rem; color: #2C3E50;"></i>
+<br><br>
+
+## Estamos compilando el código...
+
+Esta sección de **CITOverso** se encuentra actualmente en desarrollo. Estamos preparando contenido riguroso y detallado para asegurarnos de ofrecerte el mejor nivel técnico. 
+
+Muy pronto encontrarás aquí toda la información estructurada. *La ciencia de datos requiere precisión, y esta página no es la excepción.*
+:::
+:::
+
+::: {.column width="20%"}
+### 📩 ¿Prisa por empezar?
+Si tienes un protocolo de investigación en puerta o necesitas apoyo bioinformático con tus datos de citometría de flujo, no tienes que esperar a que esta página esté lista.
+
+**[Escríbeme un correo](mailto:jvillanuevatoledo@gmail.com)** para agendar una sesión inicial.
+:::
+
+::::
+
+<br><br>
+
+::: {.text-center}
+Hecho con 💙
+:::

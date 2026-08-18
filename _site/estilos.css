@@ -1,0 +1,4 @@
+/* Esto aumenta el ancho máximo del contenido en la página */
+main {
+  max-width: 1200px !important; /* Puedes subir o bajar este número */
+}

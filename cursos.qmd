@@ -1,0 +1,38 @@
+---
+title: "Desde los fundamentos bidimensionales hasta el análisis computacional avanzado en R"
+---
+
+En **CITOverso**, creemos que la capacitación continua es clave para la investigación de alto impacto. Por ello, ofrecemos programas de formación diseñados para llevarte paso a paso en el dominio de la citometría de flujo, adaptándonos a tu nivel de experiencia.
+
+🟢 Curso Básico: Fundamentos y Análisis Bidimensional
+Diseñado para estudiantes, profesionales e investigadores que dan sus primeros pasos en la citometría de flujo y necesitan interpretar datos de manera confiable y reproducible.
+
+**Objetivo**: Comprender los principios del análisis de datos y adquirir la capacidad de procesar archivos, realizar estrategias de *gating* y generar reportes estandarizados.
+
+**Temario principal**:
+
+    - **Introducción a los datos citométricos**: Entendiendo los archivos FCS y la compensación básica.
+
+    - **Análisis Bidimensional (2D)**: Estrategias de gating clásico, identificación de poblaciones y uso de controles (FMOs, isotipos).
+
+    - **Estadística descriptiva aplicada**: Qué medir y cómo interpretarlo (frecuencias, MFI).
+
+    - **Elaboración de Reportes**: Cómo estructurar y exportar un reporte básico de resultados listo para presentaciones o artículos clínicos.
+
+🔵 Curso Avanzado: Análisis Computacional y Multidimensional
+
+Dirigido a investigadores, inmunólogos y analistas de datos que manejan paneles de alta complejidad (más de 10 colores) y necesitan ir más allá del análisis manual.
+
+**Objetivo**: Transicionar del análisis manual tradicional al análisis computacional automatizado, descubriendo poblaciones celulares ocultas mediante algoritmos de vanguardia.
+
+**Temario principal**:
+    - **El ecosistema de R y Bioconductor**: Preparación del entorno para citometría computacional.
+    
+    - **Control de calidad y preprocesamiento**: Limpieza de datos y transformaciones algorítmicas (Logicle, asinh).
+    
+    - **Reducción de la Dimensionalidad**: Fundamentos y aplicación práctica de algoritmos como t-SNE y UMAP para visualización global.
+    
+    - **Clustering Celular Automatizado**: Identificación no supervisada de fenotipos utilizando algoritmos avanzados (ej. FlowSOM, PhenoGraph).
+    
+    - **Análisis diferencial**: Comparación estadística entre grupos experimentales o cohortes clínicas.
+    

@@ -9,7 +9,9 @@ website:
       - href: index.qmd
         text: Inicio
       - href: about.qmd
-        text: Sobre mí  
+        text: Sobre mí
+      - href: cursos.qmd
+        text: Cursos
       - href: servicios.qmd
         text: Servicios de Asesoría
       - href: tutoriales.qmd
@@ -18,9 +20,9 @@ website:
       - icon: github
         href: https://github.com/jvillanuevatoledo/citoverso
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://linkedin.com/in/jvillanuevat
       - icon: envelope
-        href: mailto:tu-correo@ejemplo.com
+        href: mailto:jvillanuevatoledo@gmail.com
       # Aquí agregaremos más adelante páginas como "Servicios" o "Blog"
 
 format:
